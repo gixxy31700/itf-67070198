@@ -6,7 +6,7 @@
 }
 
 nav {
-    background-color: rgb(139, 139, 139);
+    background-color: rgb(128, 128, 241);
     padding: 1.5rem;
 }
 
@@ -42,9 +42,10 @@ button {
     border-radius: 10px;
     padding: 0.5rem 1rem;
     margin-right: 1rem;
+    background-color: blueviolet;
 }
 
 footer {
-    background-color: rgb(34, 18, 18);
+    background-color: rgb(82, 102, 121);
     padding: 1.5rem;
 }
